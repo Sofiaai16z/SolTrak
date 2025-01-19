@@ -56,7 +56,6 @@ export default function Home() {
         <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800">
           <div className="container px-4 md:px-6">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-center mb-12">
-              TRUMP AI47Z
               Make America Great Again with AI
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
@@ -101,7 +100,7 @@ export default function Home() {
         </section>
 
 {/* How It Works Section */}
-<section className="w-full py-8 md:py-16 lg:py-20 relative bg-black">
+<section className="w-full py-8 md:py-14 lg:py-16 relative bg-black">
   {/* Background Image */}
   <div 
     className="absolute inset-0 w-full h-full opacity-50"
