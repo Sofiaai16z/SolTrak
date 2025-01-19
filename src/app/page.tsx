@@ -31,10 +31,10 @@ export default function Home() {
     <div className="flex flex-col items-center space-y-4 text-center text-white">
       <div className="space-y-2">
         <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-          Make America Great Again with AI
+        
         </h1>
         <p className="mx-auto max-w-[700px] text-gray-100 md:text-xl">
-          Manage your Solana assets with ease. Track, analyze, and optimize your portfolio in one place.
+          
         </p>
       </div>
       <div className="space-x-4">
@@ -57,6 +57,7 @@ export default function Home() {
           <div className="container px-4 md:px-6">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-center mb-12">
               TRUMP AI47Z
+              Make America Great Again with AI
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Card>
@@ -163,8 +164,7 @@ export default function Home() {
               <AccordionItem value="item-1">
                 <AccordionTrigger>Is TrumpAI47Z free to use?</AccordionTrigger>
                 <AccordionContent>
-                  Yes, TrumpAI47Z offers a free tier with basic features. We also
-                  have premium plans for advanced users.
+                  Yes, TrumpAI47Z offers a free tier with basic features.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
