@@ -25,11 +25,11 @@ const WalletConnection: FC = () => {
           <Link className="mr-6 flex items-center space-x-2" href="/">
             <Image
               src="/logo2.png"
-              alt="Trump AI47Z Logo"
+              alt="Melania"
               width={32}
               height={32}
             />
-            <span className="font-bold">Trump AI47Z</span>
+            <span className="font-bold">MelaniaAi16z</span>
           </Link>
         </div>
         <div className="flex flex-1 items-center space-x-2 justify-end">

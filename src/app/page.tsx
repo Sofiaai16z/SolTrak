@@ -101,16 +101,7 @@ export default function Home() {
 
 {/* How It Works Section */}
 <section className="w-full py-8 md:py-14 lg:py-16 relative bg-black">
-  {/* Background Image */}
-  <div 
-    className="absolute inset-0 w-full h-full opacity-50"
-    style={{
-      backgroundImage: "url('/trump111.png')",
-      backgroundPosition: 'center',
-      backgroundSize: 'cover',
-      backgroundRepeat: 'no-repeat',
-    }}
-  />
+
   
   {/* Content Container - Now with relative positioning to appear above the background */}
   <div className="container px-4 md:px-6 relative z-10">
@@ -124,7 +115,7 @@ export default function Home() {
         </div>
         <h3 className="text-xl font-bold mb-2 text-white">Connect Your Wallet</h3>
         <p className="text-gray-200">
-          Securely connect your Solana wallet to TrumpAI47Z with just a few clicks.
+          Securely connect your Solana wallet to MelaniaAi16z with just a few clicks.
         </p>
       </div>
       <div className="flex flex-col items-center text-center">
@@ -161,13 +152,13 @@ export default function Home() {
               className="w-full max-w-3xl mx-auto"
             >
               <AccordionItem value="item-1">
-                <AccordionTrigger>Is TrumpAI47Z free to use?</AccordionTrigger>
+                <AccordionTrigger>Is MelaniaAi16z free to use?</AccordionTrigger>
                 <AccordionContent>
-                  Yes, TrumpAI47Z offers a free tier with basic features.
+                  Yes, MelaniaAi16z offers a free tier with basic features.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
-                <AccordionTrigger>How secure is TrumpAI47Z?</AccordionTrigger>
+                <AccordionTrigger>How secure is MelaniaAi16z?</AccordionTrigger>
                 <AccordionContent>
                   We use industry-standard encryption and security measures to
                   ensure your data and assets are protected.
@@ -175,10 +166,10 @@ export default function Home() {
               </AccordionItem>
               <AccordionItem value="item-3">
                 <AccordionTrigger>
-                  Can I use TrumpAI47Z on mobile?
+                  Can I use MelaniaAi16z on mobile?
                 </AccordionTrigger>
                 <AccordionContent>
-                TrumpAI47Z is fully responsive and works great on mobile devices
+                MelaniaAi16z is fully responsive and works great on mobile devices
                   and tablets.
                 </AccordionContent>
               </AccordionItem>
@@ -201,7 +192,7 @@ export default function Home() {
               <a className="underline">Terms of Service</a>
             </div>
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              © 2025 TrumpAI47Z. All rights reserved.
+              © 2025 MelaniaAi16z. All rights reserved.
             </p>
           </div>
         </div>
