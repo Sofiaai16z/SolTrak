@@ -115,7 +115,7 @@ export default function Home() {
         </div>
         <h3 className="text-xl font-bold mb-2 text-white">Connect Your Wallet</h3>
         <p className="text-gray-200">
-          Securely connect your Solana wallet to MelaniaAi16z with just a few clicks.
+          Securely connect your Solana wallet to TrumpAi47z with just a few clicks.
         </p>
       </div>
       <div className="flex flex-col items-center text-center">
@@ -152,13 +152,13 @@ export default function Home() {
               className="w-full max-w-3xl mx-auto"
             >
               <AccordionItem value="item-1">
-                <AccordionTrigger>Is MelaniaAi16z free to use?</AccordionTrigger>
+                <AccordionTrigger>Is TrumpAi47z free to use?</AccordionTrigger>
                 <AccordionContent>
-                  Yes, MelaniaAi16z offers a free tier with basic features.
+                  Yes, TrumpAi47z offers a free tier with basic features.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
-                <AccordionTrigger>How secure is MelaniaAi16z?</AccordionTrigger>
+                <AccordionTrigger>How secure is TrumpAi47z?</AccordionTrigger>
                 <AccordionContent>
                   We use industry-standard encryption and security measures to
                   ensure your data and assets are protected.
@@ -166,10 +166,10 @@ export default function Home() {
               </AccordionItem>
               <AccordionItem value="item-3">
                 <AccordionTrigger>
-                  Can I use MelaniaAi16z on mobile?
+                  Can I use TrumpAi47z on mobile?
                 </AccordionTrigger>
                 <AccordionContent>
-                MelaniaAi16z is fully responsive and works great on mobile devices
+                TrumpAi47z is fully responsive and works great on mobile devices
                   and tablets.
                 </AccordionContent>
               </AccordionItem>
@@ -192,7 +192,7 @@ export default function Home() {
               <a className="underline">Terms of Service</a>
             </div>
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              © 2025 MelaniaAi16z. All rights reserved.
+              © 2025 TrumpAi47z. All rights reserved.
             </p>
           </div>
         </div>
