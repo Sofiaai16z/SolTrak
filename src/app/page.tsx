@@ -56,7 +56,7 @@ export default function Home() {
         <section className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800">
           <div className="container px-4 md:px-6">
             <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-center mb-12">
-              Make America Great Again with AI
+            SOME PEOPLE I LOVE   SOME PEOPLE I GOT LOVE FOR   I DONT HATE ANYONE I JUST DONT CARE ABOUT THEM ENOUGH TO HATE THEM
             </h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               <Card>
@@ -115,7 +115,7 @@ export default function Home() {
         </div>
         <h3 className="text-xl font-bold mb-2 text-white">Connect Your Wallet</h3>
         <p className="text-gray-200">
-          Securely connect your Solana wallet to TrumpAi47z with just a few clicks.
+          Securely connect your Solana wallet to KayneYE16Z with just a few clicks.
         </p>
       </div>
       <div className="flex flex-col items-center text-center">
@@ -152,13 +152,13 @@ export default function Home() {
               className="w-full max-w-3xl mx-auto"
             >
               <AccordionItem value="item-1">
-                <AccordionTrigger>Is TrumpAi47z free to use?</AccordionTrigger>
+                <AccordionTrigger>Is KayneYE16Z free to use?</AccordionTrigger>
                 <AccordionContent>
-                  Yes, TrumpAi47z offers a free tier with basic features.
+                  Yes, KayneYE16Z offers a free tier with basic features.
                 </AccordionContent>
               </AccordionItem>
               <AccordionItem value="item-2">
-                <AccordionTrigger>How secure is TrumpAi47z?</AccordionTrigger>
+                <AccordionTrigger>How secure is KayneYE16Z?</AccordionTrigger>
                 <AccordionContent>
                   We use industry-standard encryption and security measures to
                   ensure your data and assets are protected.
@@ -166,10 +166,10 @@ export default function Home() {
               </AccordionItem>
               <AccordionItem value="item-3">
                 <AccordionTrigger>
-                  Can I use TrumpAi47z on mobile?
+                  Can I use KayneYE16Z on mobile?
                 </AccordionTrigger>
                 <AccordionContent>
-                TrumpAi47z is fully responsive and works great on mobile devices
+                KayneYE16Z is fully responsive and works great on mobile devices
                   and tablets.
                 </AccordionContent>
               </AccordionItem>
@@ -192,7 +192,7 @@ export default function Home() {
               <a className="underline">Terms of Service</a>
             </div>
             <p className="text-sm text-gray-500 dark:text-gray-400">
-              © 2025 TrumpAi47z. All rights reserved.
+              © 2025 KayneYE16Z. All rights reserved.
             </p>
           </div>
         </div>

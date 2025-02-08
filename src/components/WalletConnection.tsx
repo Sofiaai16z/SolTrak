@@ -29,7 +29,7 @@ const WalletConnection: FC = () => {
               width={32}
               height={32}
             />
-            <span className="font-bold">TrumpAI47z</span>
+            <span className="font-bold">KayneYE16z</span>
           </Link>
         </div>
         <div className="flex flex-1 items-center space-x-2 justify-end">
