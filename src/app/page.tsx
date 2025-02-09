@@ -43,7 +43,7 @@ export default function Home() {
           <ArrowRight className="w-5 h-5 ml-2" />
           </Button>
         <Button variant="outline">
-          <a href="https://x.com/Tai47z" target="_blank" rel="noopener noreferrer">
+          <a href="https://x.com/KayneYE16z" target="_blank" rel="noopener noreferrer">
             Twitter
           </a>
         </Button>
